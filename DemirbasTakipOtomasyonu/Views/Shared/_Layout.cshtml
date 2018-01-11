@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - ASP.NET Uygulamam</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        #myInput {
+            background-image: url('/css/searchicon.png');
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
+
+        /*#myTable {
+            border-collapse: collapse;
+            width: 100%;
+            /*border: 1px solid #ddd;*/
+            font-size: 18px;
+        }
+
+            #myTable th, #myTable td {
+                text-align: left;
+                padding: 12px;
+            }
+
+            #myTable tr {
+                border-bottom: 1px solid #ddd;
+            }
+
+                #myTable tr.header, #myTable tr:hover {
+                    background-color: #f1f1f1;
+                }*/
+    </style>
+    <script>
+        function myFunction() {
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("myTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Demirbaş Takip Otomasyonu", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Odalar", "Index", "Oda")</li>
+                    <li>@Html.ActionLink("Demirbaş Ata", "Create", "OdaDemirbasAtama")</li>
+                    <li>@Html.ActionLink("Personeller", "Index", "Personel")</li>
+                    <li>@Html.ActionLink("Demirbaş Stok", "Index", "Demirbas")</li>
+                    <li>@Html.ActionLink("Demirbaş Kayıt", "Create", "Demirbas")</li>
+                    @*<li>
+                            @using (Html.BeginForm("Index", "Personel", FormMethod.Get))
+                            {
+                            <form class="navbar-form navbar-right" role="search" action="~/Controllers/Personel/Index" method="get">
+                                <div class="form-group">
+                                    @Html.TextBox("q", null, new { @class = "form-control" })
+                                </div>
+                                <button type="submit" class="btn btn-default">Ara</button>
+                            </form>
+                            }
+                        </li>*@
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+       
+            @RenderBody()
+            <br />
+            <br />
+            <br />
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Demirbaş Takip Otomasyon Sistemi</p>
+            </footer>    
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

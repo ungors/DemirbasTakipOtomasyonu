@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fc81ddb9e453440988f42629bf1ed0e6" Name="Diagram1">
+        <EntityTypeShape EntityType="OtomasyonModel.Demirbas" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.DemirbasTuru" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.Departman" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.Fakulte" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.Oda" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.OdaDemirbasAtama" Width="1.5" PointX="7.5" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.Personel" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="OtomasyonModel.Kullanici" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="OtomasyonModel.FK_Demirbas_DemirbasTuru" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_Demirbas_Departman" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_Demirbas_Fakulte" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_OdaDemirbasAtama_Demirbas" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_Departman_Fakulte" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_Oda_Departman" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_Oda_Personel" ManuallyRouted="false" />
+        <AssociationConnector Association="OtomasyonModel.FK_OdaDemirbasAtama_Oda" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

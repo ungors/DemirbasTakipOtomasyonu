@@ -1,0 +1,61 @@
+﻿@model DemirbasTakipOtomasyonu.Models.OdaDemirbasAtama
+
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Demirbaş Atama Sayfası</h2>
+@if (TempData["Stok"] != null)
+{
+    <div class="alert alert-danger">
+        <strong>@TempData["Stok"]</strong>
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.OdaId, "OdaId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("OdaId", null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.OdaId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DemirbasId, "Demirbaş", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DemirbasId", null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DemirbasId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AtananAdet, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.AtananAdet, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.AtananAdet, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+@*<div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

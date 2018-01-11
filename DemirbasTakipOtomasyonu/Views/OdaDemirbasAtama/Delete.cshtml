@@ -1,0 +1,47 @@
+﻿@model DemirbasTakipOtomasyonu.Models.OdaDemirbasAtama
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Silme İşlemi</h2>
+
+<h3>Silmek istediğinizden emin misiniz?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AtananAdet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AtananAdet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Demirbas.Ad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Demirbas.Ad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Oda.Ad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Oda.Ad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Geri Dön", "Index")
+        </div>
+    }
+</div>

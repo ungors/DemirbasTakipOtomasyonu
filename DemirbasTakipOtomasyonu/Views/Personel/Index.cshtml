@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DemirbasTakipOtomasyonu.Models.Personel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Personel Listesi</h2>
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filtrele" title="Type in a name">
+
+<table class="table" id="myTable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Soyad)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Id)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Soyad)
+            </td>
+            <td>
+                <a href="/Oda/Index/@item.Id">Sorumlu Olduğu Odaları Gör</a>
+            </td>
+        </tr>
+    }
+
+</table>

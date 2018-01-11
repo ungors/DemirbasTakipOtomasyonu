@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OtomasyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Demirbas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Fiyat" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="AlımTarihi" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Adet" Type="Int32" Nullable="false" />
+    <Property Name="DemirbasTurId" Type="Int32" Nullable="false" />
+    <Property Name="FakulteId" Type="Int32" Nullable="false" />
+    <Property Name="DepartmanId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DemirbasTuru" Relationship="Self.FK_Demirbas_DemirbasTuru" FromRole="Demirbas" ToRole="DemirbasTuru" />
+    <NavigationProperty Name="Departman" Relationship="Self.FK_Demirbas_Departman" FromRole="Demirbas" ToRole="Departman" />
+    <NavigationProperty Name="Fakulte" Relationship="Self.FK_Demirbas_Fakulte" FromRole="Demirbas" ToRole="Fakulte" />
+    <NavigationProperty Name="OdaDemirbasAtama" Relationship="Self.FK_OdaDemirbasAtama_Demirbas" FromRole="Demirbas" ToRole="OdaDemirbasAtama" />
+  </EntityType>
+  <EntityType Name="DemirbasTuru">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Demirbas" Relationship="Self.FK_Demirbas_DemirbasTuru" FromRole="DemirbasTuru" ToRole="Demirbas" />
+  </EntityType>
+  <EntityType Name="Departman">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FakulteId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Demirbas" Relationship="Self.FK_Demirbas_Departman" FromRole="Departman" ToRole="Demirbas" />
+    <NavigationProperty Name="Fakulte" Relationship="Self.FK_Departman_Fakulte" FromRole="Departman" ToRole="Fakulte" />
+    <NavigationProperty Name="Oda" Relationship="Self.FK_Oda_Departman" FromRole="Departman" ToRole="Oda" />
+  </EntityType>
+  <EntityType Name="Fakulte">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Demirbas" Relationship="Self.FK_Demirbas_Fakulte" FromRole="Fakulte" ToRole="Demirbas" />
+    <NavigationProperty Name="Departman" Relationship="Self.FK_Departman_Fakulte" FromRole="Fakulte" ToRole="Departman" />
+  </EntityType>
+  <EntityType Name="Oda">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DepartmanId" Type="Int32" Nullable="false" />
+    <Property Name="PersonelId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Departman" Relationship="Self.FK_Oda_Departman" FromRole="Oda" ToRole="Departman" />
+    <NavigationProperty Name="Personel" Relationship="Self.FK_Oda_Personel" FromRole="Oda" ToRole="Personel" />
+    <NavigationProperty Name="OdaDemirbasAtama" Relationship="Self.FK_OdaDemirbasAtama_Oda" FromRole="Oda" ToRole="OdaDemirbasAtama" />
+  </EntityType>
+  <EntityType Name="OdaDemirbasAtama">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OdaId" Type="Int32" Nullable="false" />
+    <Property Name="DemirbasId" Type="Int32" Nullable="false" />
+    <Property Name="AtananAdet" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Demirbas" Relationship="Self.FK_OdaDemirbasAtama_Demirbas" FromRole="OdaDemirbasAtama" ToRole="Demirbas" />
+    <NavigationProperty Name="Oda" Relationship="Self.FK_OdaDemirbasAtama_Oda" FromRole="OdaDemirbasAtama" ToRole="Oda" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Oda" Relationship="Self.FK_Oda_Personel" FromRole="Personel" ToRole="Oda" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="KullaniciAdi" />
+      <PropertyRef Name="Sifre" />
+      <PropertyRef Name="YetkiId" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="YetkiId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Demirbas_DemirbasTuru">
+    <End Role="DemirbasTuru" Type="Self.DemirbasTuru" Multiplicity="1" />
+    <End Role="Demirbas" Type="Self.Demirbas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DemirbasTuru">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Demirbas">
+        <PropertyRef Name="DemirbasTurId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Demirbas_Departman">
+    <End Role="Departman" Type="Self.Departman" Multiplicity="1" />
+    <End Role="Demirbas" Type="Self.Demirbas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departman">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Demirbas">
+        <PropertyRef Name="DepartmanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Demirbas_Fakulte">
+    <End Role="Fakulte" Type="Self.Fakulte" Multiplicity="1" />
+    <End Role="Demirbas" Type="Self.Demirbas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fakulte">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Demirbas">
+        <PropertyRef Name="FakulteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OdaDemirbasAtama_Demirbas">
+    <End Role="Demirbas" Type="Self.Demirbas" Multiplicity="1" />
+    <End Role="OdaDemirbasAtama" Type="Self.OdaDemirbasAtama" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Demirbas">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OdaDemirbasAtama">
+        <PropertyRef Name="DemirbasId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Departman_Fakulte">
+    <End Role="Fakulte" Type="Self.Fakulte" Multiplicity="1" />
+    <End Role="Departman" Type="Self.Departman" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fakulte">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Departman">
+        <PropertyRef Name="FakulteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Oda_Departman">
+    <End Role="Departman" Type="Self.Departman" Multiplicity="1" />
+    <End Role="Oda" Type="Self.Oda" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departman">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Oda">
+        <PropertyRef Name="DepartmanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Oda_Personel">
+    <End Role="Personel" Type="Self.Personel" Multiplicity="1" />
+    <End Role="Oda" Type="Self.Oda" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personel">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Oda">
+        <PropertyRef Name="PersonelId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OdaDemirbasAtama_Oda">
+    <End Role="Oda" Type="Self.Oda" Multiplicity="1" />
+    <End Role="OdaDemirbasAtama" Type="Self.OdaDemirbasAtama" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oda">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OdaDemirbasAtama">
+        <PropertyRef Name="OdaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OtomasyonEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Demirbas" EntityType="Self.Demirbas" />
+    <EntitySet Name="DemirbasTuru" EntityType="Self.DemirbasTuru" />
+    <EntitySet Name="Departman" EntityType="Self.Departman" />
+    <EntitySet Name="Fakulte" EntityType="Self.Fakulte" />
+    <EntitySet Name="Oda" EntityType="Self.Oda" />
+    <EntitySet Name="OdaDemirbasAtama" EntityType="Self.OdaDemirbasAtama" />
+    <EntitySet Name="Personel" EntityType="Self.Personel" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <AssociationSet Name="FK_Demirbas_DemirbasTuru" Association="Self.FK_Demirbas_DemirbasTuru">
+      <End Role="DemirbasTuru" EntitySet="DemirbasTuru" />
+      <End Role="Demirbas" EntitySet="Demirbas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Demirbas_Departman" Association="Self.FK_Demirbas_Departman">
+      <End Role="Departman" EntitySet="Departman" />
+      <End Role="Demirbas" EntitySet="Demirbas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Demirbas_Fakulte" Association="Self.FK_Demirbas_Fakulte">
+      <End Role="Fakulte" EntitySet="Fakulte" />
+      <End Role="Demirbas" EntitySet="Demirbas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OdaDemirbasAtama_Demirbas" Association="Self.FK_OdaDemirbasAtama_Demirbas">
+      <End Role="Demirbas" EntitySet="Demirbas" />
+      <End Role="OdaDemirbasAtama" EntitySet="OdaDemirbasAtama" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Departman_Fakulte" Association="Self.FK_Departman_Fakulte">
+      <End Role="Fakulte" EntitySet="Fakulte" />
+      <End Role="Departman" EntitySet="Departman" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Oda_Departman" Association="Self.FK_Oda_Departman">
+      <End Role="Departman" EntitySet="Departman" />
+      <End Role="Oda" EntitySet="Oda" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Oda_Personel" Association="Self.FK_Oda_Personel">
+      <End Role="Personel" EntitySet="Personel" />
+      <End Role="Oda" EntitySet="Oda" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OdaDemirbasAtama_Oda" Association="Self.FK_OdaDemirbasAtama_Oda">
+      <End Role="Oda" EntitySet="Oda" />
+      <End Role="OdaDemirbasAtama" EntitySet="OdaDemirbasAtama" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

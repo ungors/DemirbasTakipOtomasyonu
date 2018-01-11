@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Hoşgeldiniz @User.Identity.GetUserName()</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Demirbaş İşlemleri</h2>
+        <p>
+            Sistemde yetkili kişiler demirbaş ekleyebilir,odalara demirbaş ve personel atayabilir.
+        </p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4">
+        <h2>Oda İşlemleri</h2>
+        <p>Sistemde oda tanımlaması yapılabilmektedir.</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4">
+        <h2>Rapor Alma</h2>
+        <p>Odalardaki ve stoktaki demirbaşların detaylı raporu alınabilir</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>*@
+    </div>
+</div>

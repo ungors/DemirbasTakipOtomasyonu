@@ -1,0 +1,69 @@
+﻿@model IEnumerable<DemirbasTakipOtomasyonu.Models.Demirbas>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Demirbaşlar</h2>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filtrele" title="Type in a name">
+<table class="table" id="myTable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fiyat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlımTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DemirbasTuru.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departman.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fakulte.Ad)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fiyat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlımTarihi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DemirbasTuru.Ad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departman.Ad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fakulte.Ad)
+        </td>
+        @*<td>
+            @Html.ActionLink("Sil", "Delete", new { id=item.Id } , new { @class = "btn btn-danger" })
+        </td>*@
+    </tr>
+}
+</table>
+<hr />
+<p>
+    @Html.ActionLink("Demirbaş Ekle", "Create", null, new { @class = "btn btn-success" })
+    @Html.ActionLink("Stok Raporu Al", "PrintStock", null, new { @class = "btn btn-success" })
+</p>
+

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DemirbasTakipOtomasyonu.Models.OdaDemirbasAtama>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Odaya Atanan Demirbaşlar</h2>
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AtananAdet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Demirbas.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Oda.Ad)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AtananAdet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Demirbas.Ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Oda.Ad)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id } , new { @class = "btn btn-success"})
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id } , new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+</table>
+<hr />
+@Html.ActionLink("Tüm Atanan Demirbaşların Raporunu Al", "Print",null,new { @class="btn btn-primary"})

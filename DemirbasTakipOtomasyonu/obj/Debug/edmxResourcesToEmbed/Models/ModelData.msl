@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OtomasyonModelStoreContainer" CdmEntityContainer="OtomasyonEntities">
+    <EntitySetMapping Name="Demirbas">
+      <EntityTypeMapping TypeName="OtomasyonModel.Demirbas">
+        <MappingFragment StoreEntitySet="Demirbas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="AlımTarihi" ColumnName="AlımTarihi" />
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="DemirbasTurId" ColumnName="DemirbasTurId" />
+          <ScalarProperty Name="FakulteId" ColumnName="FakulteId" />
+          <ScalarProperty Name="DepartmanId" ColumnName="DepartmanId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DemirbasTuru">
+      <EntityTypeMapping TypeName="OtomasyonModel.DemirbasTuru">
+        <MappingFragment StoreEntitySet="DemirbasTuru">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departman">
+      <EntityTypeMapping TypeName="OtomasyonModel.Departman">
+        <MappingFragment StoreEntitySet="Departman">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="FakulteId" ColumnName="FakulteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fakulte">
+      <EntityTypeMapping TypeName="OtomasyonModel.Fakulte">
+        <MappingFragment StoreEntitySet="Fakulte">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Oda">
+      <EntityTypeMapping TypeName="OtomasyonModel.Oda">
+        <MappingFragment StoreEntitySet="Oda">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="DepartmanId" ColumnName="DepartmanId" />
+          <ScalarProperty Name="PersonelId" ColumnName="PersonelId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OdaDemirbasAtama">
+      <EntityTypeMapping TypeName="OtomasyonModel.OdaDemirbasAtama">
+        <MappingFragment StoreEntitySet="OdaDemirbasAtama">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OdaId" ColumnName="OdaId" />
+          <ScalarProperty Name="DemirbasId" ColumnName="DemirbasId" />
+          <ScalarProperty Name="AtananAdet" ColumnName="AtananAdet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="OtomasyonModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanici">
+      <EntityTypeMapping TypeName="OtomasyonModel.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="YetkiId" ColumnName="YetkiId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

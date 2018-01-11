@@ -1,0 +1,356 @@
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\ApplicationInsights.config
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll.config
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Owin.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\WebGrease.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Razor.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Source\Repos\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Rotativa.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\ApplicationInsights.config
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll.config
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.pdb
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Agent.Intercept.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Web.Infrastructure.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Owin.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Rotativa.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\WebGrease.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.pdb
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.xml
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Helpers.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Mvc.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Optimization.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Razor.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Deployment.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Razor.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csprojResolveAssemblyReference.cache
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csproj.CoreCompileInputs.cache
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.dll
+G:\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\ApplicationInsights.config
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll.config
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Owin.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Rotativa.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Razor.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Desktop\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\ApplicationInsights.config
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll.config
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\DemirbasTakipOtomasyonu.pdb
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Owin.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Rotativa.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.Razor.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.dll
+C:\Users\lenovo\Desktop\Yazılım\Yazılım Doğrulama ve Geçerlileme\Yazılım Sınama Projesi\DemirbasTakipOtomasyonu\DemirbasTakipOtomasyonu\obj\Debug\DemirbasTakipOtomasyonu.pdb

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DemirbasTakipOtomasyonu.Models.Oda>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Odalar</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filtrele" title="Type in a name">
+
+<table class="table" id="myTable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departman.Ad)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Personel.Ad)*@
+            Oda Sorumlusu
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a href="/OdaDemirbasAtama/Index/@item.Id">@item.Ad</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departman.Ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Personel.Ad)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Odayı Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+                @Html.ActionLink("Rapor Al", "PrintAllReport","OdaDemirbasAtama", new { id = item.Id }, new { @class = "btn btn-success" })
+            </td>
+        </tr>
+    }
+</table>
+<hr />
+<p>
+    @Html.ActionLink("Oda Tanımla", "Create", null, new { @class = "btn btn-success" })
+</p>
